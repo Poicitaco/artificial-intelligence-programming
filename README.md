@@ -25,6 +25,7 @@ This repository contains **lecture slides**, **code notebooks**, and **assignmen
 | Week | Topic |
 |------|-------|
 | 1    | Introduction to Python: syntax, data types, functions, control flow |
+| 2    | While/For loops, String handling, Lists, Tuples, Ranges |
 | 3    | Python Sets, Dictionaries, and Modules |
 | 4    | Exception Handling and File I/O |
 | 5    | Numerical Computing with NumPy |
